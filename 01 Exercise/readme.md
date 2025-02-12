@@ -97,6 +97,8 @@ let score: number = 50;
 - Literal Types
 - Function Types
 
+<br>
+
 | Primitive | Special | Complex | Union & Intersection | Type Aliases & Interface | Literal | Function |
 | --------- | ------- | ------- | -------------------- | ------------------------ | ------- | -------- |
 | String    | Any     | Array   | Union                | Type                     | ( \| )  | -        |
