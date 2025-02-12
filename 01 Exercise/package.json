@@ -1,0 +1,17 @@
+{
+  "name": "01-exercise",
+  "version": "1.0.0",
+  "description": "[![RDBMS](https://img.shields.io/badge/mySQL_Lessons_—-000?style=for-the-badge—=ko-fi—=white)](#)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "live-server": "^1.2.2",
+    "typescript": "^5.7.3"
+  }
+}

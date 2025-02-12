@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./assets/ts",
+    "outDir": "./assets/js",
+    "removeComments": false,
+    "noEmitOnError": true /* Disable emitting files if any type checking errors are reported. */,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
