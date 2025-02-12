@@ -20,13 +20,12 @@ Typescript is a programmin language developed by Microsoft. We can gain advantag
 
 > Improved Readability & Maintainability: Easier to read and understand. Other developers can quickly understand as well.
 
-JavaScript small-scale applications
+- JavaScript small-scale applications
+- Typescript medium-large applications
 
-Typescript medium-large applications
+### TypeScripts Vs JavaScript
 
-TypeScripts Vs JavaScript
-
-TypeScript
+#### TypeScript
 
     i. Static Programming Language
 
@@ -34,7 +33,7 @@ TypeScript
 
     iii. Compilation Errors
 
-JavaScript
+#### JavaScript
 
     i. Dynamic programming Language
 
@@ -44,15 +43,15 @@ JavaScript
 
 <hr />
 
-Syntax &mdash;
+### Syntax &mdash;
 
-JavaScript &mdash;
+#### JavaScript &mdash;
 
 ```js
 let score = 50;
 ```
 
-Typescript &mdash;
+#### Typescript &mdash;
 
 ```ts
 let score: number = 50;
@@ -60,9 +59,11 @@ let score: number = 50;
 
 <hr />
 
-official size &mdash;
+### TYPESCRIPT HOME PAGE &mdash;
 
 [Typescript &mdash;](https://www.typescriptlang.org)
+
+<hr>
 
 ### Install TYPESCRIPT COMPILER &mdash;
 
@@ -96,42 +97,14 @@ official size &mdash;
 - Literal Types
 - Function Types
 
-#### 1. PRIMITIVE TYPES &mdash;
-
-- String
-- Numbers
-- Boolean
-- Null
-- Undefined
-- Symbol
-
-#### 2. Special Types &mdash;
-
-- any
-- unkown
-- void
-- never
-
-#### 3. COMPLEX TYPES &mdash;
-
-- array
-- tuple
-- object
-- enum
-
-#### 4. UNION TYPE &mdash;
-
-- union
-- intersection
-
-#### 5. TYPE ALIASES AND INTERFACE TYPES &mdash;
-
-- type
-- interface
-
-#### 6. LITERIAL TYPES ( | ) &mdash;
-
-#### 7. FUNCTION TYPES &mdash;
+| Primitive | Special | Complex | Union & Intersection | Type Aliases & Interface | Literal | Function |
+| --------- | ------- | ------- | -------------------- | ------------------------ | ------- | -------- |
+| String    | Any     | Array   | Union                | Type                     | ( \| )  | -        |
+| Numbers   | Unkown  | Tuple   | Intersection         | Interface                | -       | -        |
+| Boolean   | Void    | Object  | -                    | -                        | -       | -        |
+| Null      | Never   | Enum    | -                    | -                        | -       | -        |
+| Undefined | -       | -       | -                    | -                        | -       | -        |
+| Symbol    | -       | -       | -                    | -                        | -       | -        |
 
 <br>
 
