@@ -17,10 +17,8 @@ console.log(hascar);
 // Any Type
 
 let studentid;
-
 studentid = 1001;
 studentid = "1002";
-
 console.log(studentid);
 
 // Array of string
@@ -28,6 +26,7 @@ console.log(studentid);
 let colorarrs: string[] = ["red", "green", "blue"];
 
 // colorarrs = 10;
+
 console.log(colorarrs);
 
 // Array of string
@@ -35,6 +34,7 @@ console.log(colorarrs);
 let numarrs: number[] = [100, 200, 300];
 
 // colorarrs = 10;
+
 console.log(numarrs);
 
 // Array of string, boolean and number
