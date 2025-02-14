@@ -1,4 +1,4 @@
-[![RDBMS](https://img.shields.io/badge/mySQL_Lessons_—-000?style=for-the-badge—=ko-fi—=white)](#)
+[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT_Lessons_—-000?style=for-the-badge—=ko-fi—=white)](#)
 
 > I'm Zaw Linn Tun a Frontend Web Developer on [Zaw Linn - Vlog](https://www.youtube.com/@zawlinn-vlog). :heart:
 
@@ -118,7 +118,7 @@ What I use packages are &mdash;
 
 <br>
 
-[![mySQL: Introduction](https://img.shields.io/badge/Relational_Database_Management_System_—-000?style=for-the-badge—=ko-fi—=white)](#)
+[![Typescript: Introduction](https://img.shields.io/badge/Typescript_—-000?style=for-the-badge—=ko-fi—=white)](#)
 
 📫 Reach me out!
 
